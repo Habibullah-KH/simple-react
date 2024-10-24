@@ -1,0 +1,93 @@
+[
+      {
+        "laptop_image": "https://www.myqbits.com/frontend/sigmax2/sigmax2_83/0001.webp",
+        "laptop_id": "LAP12345",
+        "laptop_name": "Qbits Sigma 15",
+        "short_description": "A sleek and efficient laptop with Intel i3 for smooth multitasking.",
+        "ingredients": [
+          "CPU: Intel i3",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "GPU: Integrated Intel UHD Graphics",
+          "Display: 15.6 inch Full HD, 60Hz"
+        ],
+        "delivery_time": "3 days",
+        "color": "Space Gray"
+      },
+      {
+        "laptop_image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-5440/media-gallery/ice-blue/laptop-inspiron-14-5440nt-ice-bl-metal-fpr-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=515&qlt=100,1&resMode=sharp2&size=515,402&chrss=full",
+        "laptop_id": "LAP67890",
+        "laptop_name": "Dell Inspiron 14",
+        "short_description": "Portable and powerful with AMD Ryzen 5 for productive workloads.",
+        "ingredients": [
+          "CPU: AMD Ryzen 5 5500U",
+          "RAM: 16GB",
+          "Storage: 512GB SSD",
+          "GPU: AMD Radeon Vega",
+          "Display: 14 inch Full HD, 60Hz"
+        ],
+        "delivery_time": "5 days",
+        "color": "Silver"
+      },
+      {
+        "laptop_image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08872536.png?impolicy=Png_Res",
+        "laptop_id": "LAP24680",
+        "laptop_name": "HP Pavilion Gaming",
+        "short_description": "High-performance gaming laptop with dedicated graphics for smooth gameplay.",
+        "ingredients": [
+          "CPU: Intel i5 10300H",
+          "RAM: 16GB",
+          "Storage: 512GB SSD",
+          "GPU: NVIDIA GTX 1650",
+          "Display: 15.6 inch Full HD, 144Hz"
+        ],
+        "delivery_time": "7 days",
+        "color": "Black"
+      },
+      {
+        "laptop_image": "https://p4-ofp.static.pub//fes/cms/2024/06/21/c6vmfj0lrgsczu3y090lirvas34fcu207515.png",
+        "laptop_id": "LAP13579",
+        "laptop_name": "Lenovo IdeaPad Flex 5",
+        "short_description": "A 2-in-1 convertible with flexible design and excellent performance.",
+        "ingredients": [
+          "CPU: AMD Ryzen 7 4700U",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "GPU: Integrated Radeon Graphics",
+          "Display: 14 inch Full HD, 60Hz Touchscreen"
+        ],
+        "delivery_time": "4 days",
+        "color": "Platinum Gray"
+      },
+      {
+        "laptop_image": "https://istockbd.com/cdn/shop/products/Macbook_Air_M1_iStockBD1.png?v=1647171974&width=600",
+        "laptop_id": "LAP54321",
+        "laptop_name": "Apple MacBook Air M1",
+        "short_description": "Apple's thinnest and lightest laptop with revolutionary M1 chip.",
+        "ingredients": [
+          "CPU: Apple M1",
+          "RAM: 8GB",
+          "Storage: 256GB SSD",
+          "GPU: Integrated 7-core GPU",
+          "Display: 13.3 inch Retina, 60Hz"
+        ],
+        "delivery_time": "2 days",
+        "color": "Space Gray"
+      },
+      {
+        "laptop_image": "https://images.acer.com/is/image/acer/aspire-7-a715-fpbl-bk-01a?$Visual-Filter-XL$",
+        "laptop_id": "LAP11223",
+        "laptop_name": "Acer Aspire 7",
+        "short_description": "Budget-friendly gaming laptop with powerful internals for performance.",
+        "ingredients": [
+          "CPU: Intel i5 9300H",
+          "RAM: 8GB",
+          "Storage: 512GB SSD",
+          "GPU: NVIDIA GTX 1650",
+          "Display: 15.6 inch Full HD, 60Hz"
+        ],
+        "delivery_time": "6 days",
+        "color": "Charcoal Black"
+      }
+    ]
+  
